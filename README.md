@@ -1,12 +1,8 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:161b22,60:0d1117,100:010409&height=100&section=header"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,40:0d1117,100:161b22&height=90&section=header"/>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     IDENTITY BLOCK                         -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<br/>
 
 <div align="center">
 
@@ -21,7 +17,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=900&color=58A6FF&background=00000000&center=true&vCenter=true&width=780&lines=Python+engineer.+Full-stack+builder.+Creative+developer.;MERN+%E2%80%A2+GSAP+%E2%80%A2+Three.js+%E2%80%A2+AI%2FML+%E2%80%A2+DevOps+%E2%80%A2+Cloud.;From+DB+schema+to+animated+UI+%E2%80%94+no+gaps%2C+no+handoffs.;Building+in+public+on+YouTube+%40+codewithtea.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Python+engineer.+Full-stack+builder.+Creative+developer.;MERN+%E2%80%A2+GSAP+%E2%80%A2+Three.js+%E2%80%A2+AI%2FML+%E2%80%A2+DevOps+%E2%80%A2+Cloud.;From+DB+schema+to+animated+UI+%E2%80%94+no+gaps%2C+no+handoffs.;Building+in+public+on+YouTube+%40+codewithtea.)](https://git.io/typing-svg)
 
 <br/>
 
@@ -37,8 +33,6 @@
 
 </div>
 
-<br/>
-
 ---
 
 ## `> WHO IS BEHIND THIS`
@@ -49,7 +43,7 @@
 
 **I'm Tanmaya** — the person behind `codewithtea`.
 
-Python is my primary language and my default way of thinking through problems. But I go beyond one layer: I build complete full-stack products with the MERN stack, craft high-end web animations with GSAP, Three.js, and WebGL, and ship AI/ML pipelines that run in production — not just Jupyter notebooks.
+Python is my primary language and my default way of thinking through problems. But I go beyond one layer: I build complete full-stack products with the MERN stack, craft high-end web animations with GSAP, Three.js, and WebGL, and ship AI/ML pipelines that run in production — not just notebooks.
 
 I document all of it on **[YouTube → codewithtea](https://www.youtube.com/@Codewith_Tea)** — real builds, real code, zero fluff.
 
@@ -66,7 +60,7 @@ class Tanmaya:
     location = "India"
 
     languages = [
-        "Python",       # primary
+        "Python",       # primary ★
         "TypeScript",
         "JavaScript",
         "SQL", "Bash",
@@ -82,7 +76,7 @@ class Tanmaya:
 
     content  = "youtube.com/@Codewith_Tea"
     fuel     = "☕"
-    open_to  = "collabs, contracts, ambitious builds"
+    open_to  = "collabs · contracts · ambitious builds"
 ```
 
 </td>
@@ -174,41 +168,51 @@ class Tanmaya:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=codewithtea&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&custom_title=Tanmaya%27s%20GitHub%20Activity" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithtea&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&custom_title=Most%20Used%20Languages" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=codewithtea&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&custom_title=Tanmaya%27s%20GitHub%20Activity" height="175"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithtea&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&hide=html,css&custom_title=Languages%20%28Python%20%231%29" height="175"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=codewithtea&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&layout=compact&custom_title=Weekly%20Coding%20Activity" height="160"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=codewithtea&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=484F58)](https://git.io/streak-stats)
 
 <br/><br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=codewithtea&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=484F58&stroke=161b22)](https://git.io/streak-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=codewithtea&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=codewithtea&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithtea&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithtea&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Timeline" width="100%"/>
 
 </div>
 
 ---
 
-## `> CONTRIBUTION TRAIL`
+## `> CONTRIBUTION SNAKE`
+
+> **Python-colored contributions — a snake eating your commit history.**
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codewithtea/codewithtea/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codewithtea/codewithtea/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/codewithtea/codewithtea/output/github-snake-dark.svg" />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/codewithtea/codewithtea/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/codewithtea/codewithtea/output/github-snake.svg"
+  />
+  <img
+    alt="Contribution Snake"
+    src="https://raw.githubusercontent.com/codewithtea/codewithtea/output/github-snake-dark.svg"
+    width="100%"
+  />
 </picture>
 
 </div>
+
+> ⚙️ **First-time setup:** Copy `snake.yml` from this repo into `.github/workflows/` and push. GitHub Actions will generate the snake SVG automatically every 12 hours. Run the workflow manually once from the Actions tab to make it appear immediately.
 
 ---
 
@@ -216,33 +220,33 @@ class Tanmaya:
 
 <div align="center">
 
-[![YouTube](https://img.shields.io/badge/▶%20%20codewithtea%20%20—%20%20Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=161b22)](https://www.youtube.com/@Codewith_Tea)
+[![YouTube](https://img.shields.io/badge/▶%20%20Watch%20on%20YouTube%20%E2%80%94%20codewithtea-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=161b22)](https://www.youtube.com/@Codewith_Tea)
 
 </div>
 
 <br/>
 
-Real projects. Real code. No slides, no hand-waving — just building things from scratch, on camera, with tea. Python engineering, MERN builds, creative animations, and system design that actually makes sense when you see it run.
+Real projects. Real code. No slides, no hand-waving — just building from scratch, on camera, with tea. Python engineering, MERN builds, creative animations, and system design that actually makes sense when you see it run.
 
-> **Subscribe** if you want to watch ideas become production-ready software.
+> Subscribe if you want to watch ideas become production-ready software.
 
 ---
 
-## `> COMMUNITY — r/projectpython`
+## `> COMMUNITY`
 
 <div align="center">
 
-[![r/projectpython](https://img.shields.io/badge/Join%20r%2Fprojectpython-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=161b22)](https://www.reddit.com/r/projectpython/)
+[![r/projectpython](https://img.shields.io/badge/Join%20r%2Fprojectpython%20—%20Python%20builders%20community-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=161b22)](https://www.reddit.com/r/projectpython/)
 
 </div>
 
 <br/>
 
-A community for people who build things with Python — not just learn it. Project showcases, code reviews, architecture discussions, and real feedback from developers who ship.
+A community for Python developers who actually ship things — project showcases, code reviews, architecture discussions, and real feedback from people who build.
 
 ---
 
-## `> CONNECT WITH ME`
+## `> CONNECT`
 
 <div align="center">
 
@@ -258,7 +262,7 @@ A community for people who build things with Python — not just learn it. Proje
 
 [![Reddit](https://img.shields.io/badge/Reddit-@chop__chop__13-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=161b22)](https://www.reddit.com/user/chop_chop_13/)
 &nbsp;&nbsp;
-[![r/projectpython](https://img.shields.io/badge/Subreddit-r%2Fprojectpython-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=161b22)](https://www.reddit.com/r/projectpython/)
+[![r/projectpython](https://img.shields.io/badge/r%2Fprojectpython-Community-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=161b22)](https://www.reddit.com/r/projectpython/)
 &nbsp;&nbsp;
 [![Email](https://img.shields.io/badge/Email-tea858880@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22)](mailto:tea858880@gmail.com)
 
@@ -282,5 +286,5 @@ A community for people who build things with Python — not just learn it. Proje
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,30:0d1117,60:161b22,100:0d1117&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,60:0d1117,100:010409&height=90&section=footer"/>
 </div>
