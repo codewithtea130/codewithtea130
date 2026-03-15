@@ -1,290 +1,214 @@
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,40:0d1117,100:161b22&height=90&section=header"/>
-</div>
-
-<br/>
-
-<div align="center">
-
-```
- ██████╗ ██████╗ ██████╗ ███████╗    ██╗    ██╗██╗████████╗██╗  ██╗    ████████╗███████╗ █████╗
-██╔════╝██╔═══██╗██╔══██╗██╔════╝    ██║    ██║██║╚══██╔══╝██║  ██║    ╚══██╔══╝██╔════╝██╔══██╗
-██║     ██║   ██║██║  ██║█████╗      ██║ █╗ ██║██║   ██║   ███████║       ██║   █████╗  ███████║
-██║     ██║   ██║██║  ██║██╔══╝      ██║███╗██║██║   ██║   ██╔══██║       ██║   ██╔══╝  ██╔══██║
-╚██████╗╚██████╔╝██████╔╝███████╗    ╚███╔███╔╝██║   ██║   ██║  ██║       ██║   ███████╗██║  ██║
- ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝     ╚══╝╚══╝╚═╝   ╚═╝   ╚═╝  ╚═╝       ╚═╝   ╚══════╝╚═╝  ╚═╝
-```
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Python+engineer.+Full-stack+builder.+Creative+developer.;MERN+%E2%80%A2+GSAP+%E2%80%A2+Three.js+%E2%80%A2+AI%2FML+%E2%80%A2+DevOps+%E2%80%A2+Cloud.;From+DB+schema+to+animated+UI+%E2%80%94+no+gaps%2C+no+handoffs.;Building+in+public+on+YouTube+%40+codewithtea.)](https://git.io/typing-svg)
-
-<br/>
-
-![](https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&labelColor=161b22&logo=python&logoColor=3776AB)
-&nbsp;
-![](https://img.shields.io/badge/Full%20Stack-MERN-339933?style=flat-square&labelColor=161b22&logo=nodedotjs&logoColor=339933)
-&nbsp;
-![](https://img.shields.io/badge/Animations-GSAP%20%2B%20Three.js-88CE02?style=flat-square&labelColor=161b22&logo=greensock&logoColor=88CE02)
-&nbsp;
-![](https://img.shields.io/badge/AI%20%2F%20ML-Production-EE4C2C?style=flat-square&labelColor=161b22&logo=pytorch&logoColor=EE4C2C)
-&nbsp;
-![](https://img.shields.io/badge/YouTube-codewithtea-FF0000?style=flat-square&labelColor=161b22&logo=youtube&logoColor=FF0000)
-
-</div>
-
----
-
-## `> WHO IS BEHIND THIS`
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-**I'm Tanmaya** — the person behind `codewithtea`.
-
-Python is my primary language and my default way of thinking through problems. But I go beyond one layer: I build complete full-stack products with the MERN stack, craft high-end web animations with GSAP, Three.js, and WebGL, and ship AI/ML pipelines that run in production — not just notebooks.
-
-I document all of it on **[YouTube → codewithtea](https://www.youtube.com/@Codewith_Tea)** — real builds, real code, zero fluff.
-
-No specialization walls. No "that's not my job." If the system needs it, I build it.
-
-> *"Most developers know a tool. I understand the layer it sits on."*
-
-</td>
-<td width="42%" valign="top">
-
-```python
-class Tanmaya:
-    alias    = "codewithtea"
-    location = "India"
-
-    languages = [
-        "Python",       # primary ★
-        "TypeScript",
-        "JavaScript",
-        "SQL", "Bash",
-    ]
-
-    stack = {
-        "backend"    : ["FastAPI", "Django", "Node", "Express"],
-        "frontend"   : ["React", "Next.js", "Tailwind"],
-        "animations" : ["GSAP", "Three.js", "Framer Motion"],
-        "ai_ml"      : ["PyTorch", "LangChain", "HuggingFace"],
-        "devops"     : ["Docker", "GitHub Actions", "AWS"],
-    }
-
-    content  = "youtube.com/@Codewith_Tea"
-    fuel     = "☕"
-    open_to  = "collabs · contracts · ambitious builds"
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## `> CAPABILITY MAP`
-
-```
-╔════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                    ║
-║   PYTHON / BACKEND    ███████████████████████████████████████  APIs · async · ORM ║
-║   AI / ML             █████████████████████████████████░░░░░░  NLP · CV · Agents  ║
-║   FULL-STACK MERN     ████████████████████████████████░░░░░░░  End-to-end web     ║
-║   ANIMATIONS & 3D     ███████████████████████████████░░░░░░░░  GSAP · Three.js    ║
-║   DEVOPS & CLOUD      ██████████████████████████████░░░░░░░░░  Docker · CI/CD     ║
-║   DATA ENGINEERING    █████████████████████████████░░░░░░░░░░  Pipelines · DBs    ║
-║                                                                                    ║
-╚════════════════════════════════════════════════════════════════════════════════════╝
-```
-
----
-
-## `> TECH STACK`
-
-<div align="center">
-
-**─── Languages ───**
-
-![Python](https://img.shields.io/badge/Python-161b22?style=for-the-badge&logo=python&logoColor=3776AB)
-![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-161b22?style=for-the-badge&logo=postgresql&logoColor=336791)
-![Bash](https://img.shields.io/badge/Bash-161b22?style=for-the-badge&logo=gnubash&logoColor=4EAA25)
-
-**─── Backend & APIs ───**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=for-the-badge&logo=fastapi&logoColor=009688)
-![Django](https://img.shields.io/badge/Django-161b22?style=for-the-badge&logo=django&logoColor=44B78B)
-![Node.js](https://img.shields.io/badge/Node.js-161b22?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-161b22?style=for-the-badge&logo=express&logoColor=ffffff)
-![WebSockets](https://img.shields.io/badge/WebSockets-161b22?style=for-the-badge&logo=socketdotio&logoColor=ffffff)
-
-**─── Frontend ───**
-
-![React](https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-161b22?style=for-the-badge&logo=nextdotjs&logoColor=ffffff)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-161b22?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
-
-**─── Creative & Animations ───**
-
-![GSAP](https://img.shields.io/badge/GSAP-161b22?style=for-the-badge&logo=greensock&logoColor=88CE02)
-![Three.js](https://img.shields.io/badge/Three.js-161b22?style=for-the-badge&logo=threedotjs&logoColor=ffffff)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-161b22?style=for-the-badge&logo=framer&logoColor=0055FF)
-![WebGL](https://img.shields.io/badge/WebGL-161b22?style=for-the-badge&logo=webgl&logoColor=990000)
-
-**─── AI / ML ───**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-161b22?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-161b22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![LangChain](https://img.shields.io/badge/LangChain-161b22?style=for-the-badge&logo=chainlink&logoColor=375BD2)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-161b22?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-
-**─── Databases ───**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=for-the-badge&logo=postgresql&logoColor=336791)
-![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=for-the-badge&logo=mongodb&logoColor=47A248)
-![MySQL](https://img.shields.io/badge/MySQL-161b22?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Redis](https://img.shields.io/badge/Redis-161b22?style=for-the-badge&logo=redis&logoColor=DC382D)
-
-**─── DevOps & Cloud ───**
-
-![Docker](https://img.shields.io/badge/Docker-161b22?style=for-the-badge&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-161b22?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![AWS](https://img.shields.io/badge/AWS-161b22?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![GCP](https://img.shields.io/badge/GCP-161b22?style=for-the-badge&logo=googlecloud&logoColor=4285F4)
-![Linux](https://img.shields.io/badge/Linux-161b22?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Nginx](https://img.shields.io/badge/Nginx-161b22?style=for-the-badge&logo=nginx&logoColor=009639)
-
-</div>
-
----
-
-## `> GITHUB STATS`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=codewithtea&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&ring_color=58a6ff&custom_title=Tanmaya%27s%20GitHub%20Activity" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithtea&layout=donut&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8&hide=html,css&custom_title=Languages%20%28Python%20%231%29" height="175"/>
-
-<br/><br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=codewithtea&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=484F58)](https://git.io/streak-stats)
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=codewithtea&theme=algolia&no-frame=true&no-bg=true&margin-w=6&column=7"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codewithtea&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Timeline" width="100%"/>
-
-</div>
-
----
-
-## `> CONTRIBUTION SNAKE`
- 
-> **Python-colored contributions — a snake eating your commit history.**
- 
-<div align="center">
- 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/codewithtea/codewithtea/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/codewithtea/codewithtea/output/github-snake.svg"
-  />
-  <img
-    alt="Contribution Snake"
-    src="https://raw.githubusercontent.com/codewithtea/codewithtea/output/github-snake-dark.svg"
-    width="100%"
-  />
-</picture>
- 
-</div>
- 
-> ⚙️ **First-time setup:** Copy `snake.yml` from this repo into `.github/workflows/` and push. GitHub Actions will generate the snake SVG automatically every 12 hours. Run the workflow manually once from the Actions tab to make it appear immediately.
-
----
-
-## `> ON YOUTUBE`
-
-<div align="center">
-
-[![YouTube](https://img.shields.io/badge/▶%20%20Watch%20on%20YouTube%20%E2%80%94%20codewithtea-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=161b22)](https://www.youtube.com/@Codewith_Tea)
-
-</div>
-
-<br/>
-
-Real projects. Real code. No slides, no hand-waving — just building from scratch, on camera, with tea. Python engineering, MERN builds, creative animations, and system design that actually makes sense when you see it run.
-
-> Subscribe if you want to watch ideas become production-ready software.
-
----
-
-## `> COMMUNITY`
-
-<div align="center">
-
-[![r/projectpython](https://img.shields.io/badge/Join%20r%2Fprojectpython%20—%20Python%20builders%20community-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=161b22)](https://www.reddit.com/r/projectpython/)
-
-</div>
-
-<br/>
-
-A community for Python developers who actually ship things — project showcases, code reviews, architecture discussions, and real feedback from people who build.
-
----
-
-## `> CONNECT`
-
-<div align="center">
-
-<br/>
-
-[![YouTube](https://img.shields.io/badge/YouTube-codewithtea-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=161b22)](https://www.youtube.com/@Codewith_Tea)
-&nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tanmaya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=161b22)](https://www.linkedin.com/in/creatingbestforyou/)
-&nbsp;&nbsp;
-[![Twitter / X](https://img.shields.io/badge/Twitter-@Tanmayaq-1D9BF0?style=for-the-badge&logo=x&logoColor=white&labelColor=161b22)](https://x.com/Tanmayaq)
-
-<br/>
-
-[![Reddit](https://img.shields.io/badge/Reddit-@chop__chop__13-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=161b22)](https://www.reddit.com/user/chop_chop_13/)
-&nbsp;&nbsp;
-[![r/projectpython](https://img.shields.io/badge/r%2Fprojectpython-Community-FF4500?style=for-the-badge&logo=reddit&logoColor=white&labelColor=161b22)](https://www.reddit.com/r/projectpython/)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-tea858880@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=161b22)](mailto:tea858880@gmail.com)
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=codewithtea&style=for-the-badge&color=58a6ff&label=PROFILE+VIEWS&abbreviated=true)
-
-<br/><br/>
-
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║                                                                       ║
-║   I build in public.  I document everything I learn.                 ║
-║   If you're building something ambitious — let's make it real.       ║
-║                                                                       ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-
-<br/>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,60:0d1117,100:010409&height=90&section=footer"/>
-</div>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400">
+  <defs>
+    <style>
+      @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+      @keyframes fadeIn { from{opacity:0;transform:translateY(6px)} to{opacity:1;transform:translateY(0)} }
+      @keyframes pulse { 0%,100%{r:18;opacity:0.18} 50%{r:26;opacity:0.06} }
+      @keyframes pulse2 { 0%,100%{r:30;opacity:0.10} 50%{r:40;opacity:0.03} }
+      @keyframes scanline { 0%{transform:translateY(-8px);opacity:0.18} 100%{transform:translateY(400px);opacity:0} }
+      @keyframes glow { 0%,100%{opacity:0.7} 50%{opacity:1} }
+      @keyframes typeLine1 { 0%,8%{width:0} 22%,100%{width:220px} }
+      @keyframes typeLine2 { 0%,24%{width:0} 38%,100%{width:180px} }
+      @keyframes typeLine3 { 0%,40%{width:0} 54%,100%{width:200px} }
+      @keyframes typeLine4 { 0%,56%{width:0} 70%,100%{width:160px} }
+      @keyframes typeLine5 { 0%,72%{width:0} 86%,100%{width:190px} }
+      @keyframes showLine1 { 0%,7%{opacity:0} 8%,100%{opacity:1} }
+      @keyframes showLine2 { 0%,23%{opacity:0} 24%,100%{opacity:1} }
+      @keyframes showLine3 { 0%,39%{opacity:0} 40%,100%{opacity:1} }
+      @keyframes showLine4 { 0%,55%{opacity:0} 56%,100%{opacity:1} }
+      @keyframes showLine5 { 0%,71%{opacity:0} 72%,100%{opacity:1} }
+      @keyframes showPrompt { 0%,85%{opacity:0} 86%,100%{opacity:1} }
+      @keyframes radarSpin { from{transform:rotate(0deg)} to{transform:rotate(360deg)} }
+      @keyframes dotAppear1 { 0%,30%{opacity:0;r:0} 32%,100%{opacity:1;r:3} }
+      @keyframes dotAppear2 { 0%,45%{opacity:0;r:0} 47%,100%{opacity:1;r:3} }
+      @keyframes dotAppear3 { 0%,60%{opacity:0;r:0} 62%,100%{opacity:1;r:3} }
+      @keyframes dotAppear4 { 0%,75%{opacity:0;r:0} 77%,100%{opacity:1;r:3} }
+
+      .cursor { animation: blink 1s step-end infinite; }
+      .scanline { animation: scanline 4s linear infinite; }
+      .glowtext { animation: glow 2.5s ease-in-out infinite; }
+
+      .tl1 { animation: typeLine1 12s ease-out infinite; overflow:hidden; display:inline-block; white-space:nowrap; }
+      .tl2 { animation: typeLine2 12s ease-out infinite; overflow:hidden; display:inline-block; white-space:nowrap; }
+      .tl3 { animation: typeLine3 12s ease-out infinite; overflow:hidden; display:inline-block; white-space:nowrap; }
+      .tl4 { animation: typeLine4 12s ease-out infinite; overflow:hidden; display:inline-block; white-space:nowrap; }
+      .tl5 { animation: typeLine5 12s ease-out infinite; overflow:hidden; display:inline-block; white-space:nowrap; }
+
+      .sl1 { animation: showLine1 12s ease-out infinite; }
+      .sl2 { animation: showLine2 12s ease-out infinite; }
+      .sl3 { animation: showLine3 12s ease-out infinite; }
+      .sl4 { animation: showLine4 12s ease-out infinite; }
+      .sl5 { animation: showLine5 12s ease-out infinite; }
+      .sp  { animation: showPrompt 12s ease-out infinite; }
+
+      .da1 { animation: dotAppear1 12s ease-out infinite; }
+      .da2 { animation: dotAppear2 12s ease-out infinite; }
+      .da3 { animation: dotAppear3 12s ease-out infinite; }
+      .da4 { animation: dotAppear4 12s ease-out infinite; }
+    </style>
+
+    <!-- glow filter -->
+    <filter id="gf" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="softglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <!-- radar sweep gradient -->
+    <radialGradient id="radarBg" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0.04"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#58a6ff" stop-opacity="0.35"/>
+    </linearGradient>
+  </defs>
+
+  <!-- background -->
+  <rect width="800" height="400" fill="#0d1117" rx="12"/>
+
+  <!-- subtle grid lines -->
+  <line x1="0" y1="133" x2="800" y2="133" stroke="#ffffff" stroke-opacity="0.022" stroke-width="1"/>
+  <line x1="0" y1="266" x2="800" y2="266" stroke="#ffffff" stroke-opacity="0.022" stroke-width="1"/>
+  <line x1="266" y1="0" x2="266" y2="400" stroke="#ffffff" stroke-opacity="0.022" stroke-width="1"/>
+  <line x1="532" y1="0" x2="532" y2="400" stroke="#ffffff" stroke-opacity="0.022" stroke-width="1"/>
+
+  <!-- scanline sweep -->
+  <rect class="scanline" x="0" y="0" width="800" height="8" fill="#58a6ff" fill-opacity="0.025" rx="0"/>
+
+  <!-- ── LEFT: TERMINAL PANEL ── -->
+  <rect x="28" y="28" width="440" height="344" rx="8" fill="#010409" stroke="#21262d" stroke-width="1"/>
+
+  <!-- terminal top bar -->
+  <rect x="28" y="28" width="440" height="36" rx="8" fill="#161b22"/>
+  <rect x="28" y="52" width="440" height="12" fill="#161b22"/>
+  <!-- traffic lights -->
+  <circle cx="52" cy="46" r="5.5" fill="#ff5f57"/>
+  <circle cx="70" cy="46" r="5.5" fill="#febc2e"/>
+  <circle cx="88" cy="46" r="5.5" fill="#28c840"/>
+  <!-- terminal title -->
+  <text x="400" y="51" font-family="'JetBrains Mono',monospace" font-size="11" fill="#484f58" text-anchor="middle">tanmaya — python3</text>
+
+  <!-- prompt line -->
+  <text x="48" y="96" font-family="'JetBrains Mono',monospace" font-size="12" fill="#3fb950">tanmaya@codewithtea</text>
+  <text x="196" y="96" font-family="'JetBrains Mono',monospace" font-size="12" fill="#484f58">:</text>
+  <text x="202" y="96" font-family="'JetBrains Mono',monospace" font-size="12" fill="#58a6ff">~/projects</text>
+  <text x="275" y="96" font-family="'JetBrains Mono',monospace" font-size="12" fill="#e6edf3">$ </text>
+  <text x="291" y="96" font-family="'JetBrains Mono',monospace" font-size="12" fill="#e6edf3">python3 stack.py</text>
+
+  <!-- output lines with typewriter animation -->
+  <!-- line 1 -->
+  <g class="sl1">
+    <text x="48" y="124" font-family="'JetBrains Mono',monospace" font-size="12" fill="#484f58">›</text>
+    <text x="60" y="124" font-family="'JetBrains Mono',monospace" font-size="12" fill="#8b949e">Loading</text>
+    <text x="60" y="124" font-family="'JetBrains Mono',monospace" font-size="12" fill="#8b949e" class="tl1">  Python  ·  FastAPI  ·  Django</text>
+  </g>
+
+  <!-- line 2 -->
+  <g class="sl2">
+    <text x="48" y="150" font-family="'JetBrains Mono',monospace" font-size="12" fill="#484f58">›</text>
+    <text x="60" y="150" font-family="'JetBrains Mono',monospace" font-size="12" fill="#8b949e">Loading</text>
+    <text x="60" y="150" font-family="'JetBrains Mono',monospace" font-size="12" fill="#8b949e" class="tl2">  React  ·  Next.js  ·  Node</text>
+  </g>
+
+  <!-- line 3 -->
+  <g class="sl3">
+    <text x="48" y="176" font-family="'JetBrains Mono',monospace" font-size="12" fill="#484f58">›</text>
+    <text x="60" y="176" font-family="'JetBrains Mono',monospace" font-size="12" fill="#8b949e">Loading</text>
+    <text x="60" y="176" font-family="'JetBrains Mono',monospace" font-size="12" fill="#8b949e" class="tl3">  GSAP  ·  Three.js  ·  WebGL</text>
+  </g>
+
+  <!-- line 4 -->
+  <g class="sl4">
+    <text x="48" y="202" font-family="'JetBrains Mono',monospace" font-size="12" fill="#484f58">›</text>
+    <text x="60" y="202" font-family="'JetBrains Mono',monospace" font-size="12" fill="#8b949e">Loading</text>
+    <text x="60" y="202" font-family="'JetBrains Mono',monospace" font-size="12" fill="#8b949e" class="tl4">  PyTorch  ·  LangChain</text>
+  </g>
+
+  <!-- line 5 -->
+  <g class="sl5">
+    <text x="48" y="228" font-family="'JetBrains Mono',monospace" font-size="12" fill="#484f58">›</text>
+    <text x="60" y="228" font-family="'JetBrains Mono',monospace" font-size="12" fill="#8b949e">Loading</text>
+    <text x="60" y="228" font-family="'JetBrains Mono',monospace" font-size="12" fill="#8b949e" class="tl5">  Docker  ·  AWS  ·  GitHub CI</text>
+  </g>
+
+  <!-- success line -->
+  <g class="sp">
+    <text x="48" y="262" font-family="'JetBrains Mono',monospace" font-size="12" fill="#3fb950" filter="url(#gf)">✓ Stack initialized. Ready to ship.</text>
+    <!-- next prompt -->
+    <text x="48" y="292" font-family="'JetBrains Mono',monospace" font-size="12" fill="#3fb950">tanmaya@codewithtea</text>
+    <text x="196" y="292" font-family="'JetBrains Mono',monospace" font-size="12" fill="#484f58">:</text>
+    <text x="202" y="292" font-family="'JetBrains Mono',monospace" font-size="12" fill="#58a6ff">~/projects</text>
+    <text x="275" y="292" font-family="'JetBrains Mono',monospace" font-size="12" fill="#e6edf3">$ </text>
+    <rect class="cursor" x="291" y="280" width="8" height="14" fill="#58a6ff" opacity="0.9"/>
+  </g>
+
+  <!-- ── RIGHT: RADAR PANEL ── -->
+  <rect x="492" y="28" width="280" height="344" rx="8" fill="#010409" stroke="#21262d" stroke-width="1"/>
+
+  <!-- radar panel title -->
+  <text x="632" y="60" font-family="'JetBrains Mono',monospace" font-size="10" fill="#484f58" text-anchor="middle">SKILL RADAR</text>
+  <line x1="520" y1="68" x2="744" y2="68" stroke="#21262d" stroke-width="1"/>
+
+  <!-- radar background -->
+  <circle cx="632" cy="198" r="90" fill="url(#radarBg)"/>
+
+  <!-- radar rings -->
+  <circle cx="632" cy="198" r="72" fill="none" stroke="#21262d" stroke-width="0.8"/>
+  <circle cx="632" cy="198" r="50" fill="none" stroke="#21262d" stroke-width="0.8"/>
+  <circle cx="632" cy="198" r="28" fill="none" stroke="#21262d" stroke-width="0.8"/>
+
+  <!-- radar crosshairs -->
+  <line x1="632" y1="116" x2="632" y2="280" stroke="#21262d" stroke-width="0.8"/>
+  <line x1="550" y1="198" x2="714" y2="198" stroke="#21262d" stroke-width="0.8"/>
+  <line x1="574" y1="140" x2="690" y2="256" stroke="#21262d" stroke-width="0.8"/>
+  <line x1="690" y1="140" x2="574" y2="256" stroke="#21262d" stroke-width="0.8"/>
+
+  <!-- radar sweep (rotating) -->
+  <g style="transform-origin:632px 198px; animation:radarSpin 4s linear infinite">
+    <path d="M632,198 L632,126 A72,72 0 0,1 694,234 Z" fill="url(#sweep)" opacity="0.6"/>
+  </g>
+
+  <!-- skill dots with labels -->
+  <!-- Python: top (strongest) -->
+  <circle class="da1" cx="632" cy="130" r="3" fill="#3776AB" filter="url(#softglow)"/>
+  <text x="632" y="122" font-family="'JetBrains Mono',monospace" font-size="9" fill="#3776AB" text-anchor="middle" class="da1">Python</text>
+
+  <!-- MERN: right -->
+  <circle class="da2" cx="700" cy="198" r="3" fill="#339933" filter="url(#softglow)"/>
+  <text x="716" y="202" font-family="'JetBrains Mono',monospace" font-size="9" fill="#339933" text-anchor="start" class="da2">MERN</text>
+
+  <!-- Animations: bottom-right -->
+  <circle class="da3" cx="678" cy="256" r="3" fill="#88CE02" filter="url(#softglow)"/>
+  <text x="688" y="268" font-family="'JetBrains Mono',monospace" font-size="9" fill="#88CE02" text-anchor="middle" class="da3">GSAP·3D</text>
+
+  <!-- AI/ML: bottom-left -->
+  <circle class="da4" cx="582" cy="256" r="3" fill="#EE4C2C" filter="url(#softglow)"/>
+  <text x="572" y="268" font-family="'JetBrains Mono',monospace" font-size="9" fill="#EE4C2C" text-anchor="middle" class="da4">AI / ML</text>
+
+  <!-- DevOps: left -->
+  <circle cx="564" cy="198" r="3" fill="#2496ED" filter="url(#softglow)" style="animation:dotAppear4 12s ease-out infinite"/>
+  <text x="548" y="202" font-family="'JetBrains Mono',monospace" font-size="9" fill="#2496ED" text-anchor="end" style="animation:dotAppear4 12s ease-out infinite">DevOps</text>
+
+  <!-- radar center dot -->
+  <circle cx="632" cy="198" r="3" fill="#58a6ff" opacity="0.8"/>
+  <circle cx="632" cy="198" r="6" fill="none" stroke="#58a6ff" stroke-width="0.8" opacity="0.3"/>
+
+  <!-- pulse rings on center -->
+  <circle cx="632" cy="198" fill="none" stroke="#58a6ff" stroke-width="0.8">
+    <animate attributeName="r" values="8;28;8" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.3;0;0.3" dur="3s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- bottom bar on radar -->
+  <line x1="520" y1="312" x2="744" y2="312" stroke="#21262d" stroke-width="1"/>
+  <text x="632" y="330" font-family="'JetBrains Mono',monospace" font-size="9" fill="#484f58" text-anchor="middle">codewithtea · tanmaya</text>
+  <text x="632" y="346" font-family="'JetBrains Mono',monospace" font-size="9" fill="#3fb950" text-anchor="middle" filter="url(#gf)">● online</text>
+
+  <!-- outer border glow -->
+  <rect x="1" y="1" width="798" height="398" rx="12" fill="none" stroke="#58a6ff" stroke-width="0.5" stroke-opacity="0.15"/>
+</svg>
