@@ -189,11 +189,11 @@ class Tanmaya:
 ---
 
 ## `> CONTRIBUTION SNAKE`
-
+ 
 > **Python-colored contributions — a snake eating your commit history.**
-
+ 
 <div align="center">
-
+ 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -209,9 +209,9 @@ class Tanmaya:
     width="100%"
   />
 </picture>
-
+ 
 </div>
-
+ 
 > ⚙️ **First-time setup:** Copy `snake.yml` from this repo into `.github/workflows/` and push. GitHub Actions will generate the snake SVG automatically every 12 hours. Run the workflow manually once from the Actions tab to make it appear immediately.
 
 ---
