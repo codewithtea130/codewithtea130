@@ -1,7 +1,5 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,40:0d1117,100:161b22&height=90&section=header"/>
-</div>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:0d1117&height=60&section=header&reversal=false"/>
 <br/>
 
 <div align="center">
@@ -251,5 +249,5 @@ A community for Python developers who actually ship things — project showcases
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,60:0d1117,100:010409&height=90&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:0d1117&height=60&section=footer"/>
 </div>
