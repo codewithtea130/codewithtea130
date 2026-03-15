@@ -1,113 +1,97 @@
-```md
 <div align="center">
 
 <br/>
 
 ```
-
-██████╗ ██████╗ ██████╗ ███████╗
-██╔════╝██╔═══██╗██╔══██╗██╔════╝
-██║     ██║   ██║██║  ██║█████╗
-██║     ██║   ██║██║  ██║██╔══╝
-╚██████╗╚██████╔╝██████╔╝███████╗
-╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝
-C O D E   W I T H   T E A
-
+███╗   ███╗██╗   ██╗██╗  ██╗ █████╗ ███╗   ███╗███╗   ███╗ █████╗ ██████╗
+████╗ ████║██║   ██║██║  ██║██╔══██╗████╗ ████║████╗ ████║██╔══██╗██╔══██╗
+██╔████╔██║██║   ██║███████║███████║██╔████╔██║██╔████╔██║███████║██║  ██║
+██║╚██╔╝██║██║   ██║██╔══██║██╔══██║██║╚██╔╝██║██║╚██╔╝██║██╔══██║██║  ██║
+██║ ╚═╝ ██║╚██████╔╝██║  ██║██║  ██║██║ ╚═╝ ██║██║ ╚═╝ ██║██║  ██║██████╔╝
+╚═╝     ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═════╝
+                                                              Z O H A I B
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3200&pause=900&color=FFFFFF&center=true&vCenter=true&width=650&lines=Python+Developer;I+build+tools+that+solve+real+problems;Automation+%7C+Utilities+%7C+Systems;Learning+by+shipping+software.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=700&size=17&duration=3000&pause=800&color=FFFFFF&background=00000000&center=true&vCenter=true&width=680&lines=Engineer.+Builder.+Thinker.;Full-Stack+%E2%80%94+DevOps+%E2%80%94+AI%2FML+%E2%80%94+Systems;I+don%27t+specialize.+I+ship+complete+products.)](https://git.io/typing-svg)
+
+---
 
 </div>
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## system overview
+**`> WHO`** &nbsp; I build end-to-end products — APIs, ML pipelines, infra, frontends — without switching personas. 3–5 years of shipping things that run in production and don't fall over.
 
-```
+</td>
+<td width="50%" valign="top">
 
-┌─────────────────────────────────────────────────────────────────────┐
-│  PYTHON        █████████████████████████████████████████             │
-│  AUTOMATION    █████████████████████████████████░░░░░░               │
-│  DESKTOP APPS  ███████████████████████████░░░░░░░░░░                 │
-│  DATA TOOLS    ████████████████████████░░░░░░░░░░░░                  │
-│  SYSTEM UTIL   ███████████████████████░░░░░░░░░░░░░                  │
-└─────────────────────────────────────────────────────────────────────┘
+**`> WHY`** &nbsp; Most engineers go deep in one lane. I close the gap between prototype and production — the place where most projects die.
 
-```
-
----
-
-## stack
-
-```
-
-LANGUAGES      →  Python · SQL · Bash
-LIBRARIES      →  Tkinter · Pandas · NumPy · Requests
-DATABASES      →  SQLite · PostgreSQL
-TOOLS          →  Git · Linux · Docker · GitHub Actions
-WORKFLOW       →  scripting · automation · small utilities
-
-```
+</td>
+</tr>
+</table>
 
 ---
 
-## what i build
-
 ```
-
-╔════════════════════════════════════════════════════════════╗
-║  AUTOMATION TOOLS        remove repetitive manual work     ║
-║  DESKTOP UTILITIES       small focused applications        ║
-║  PYTHON PROJECTS         simple implementations of ideas   ║
-║  SYSTEM SCRIPTS          command-line productivity tools   ║
-║  EXPERIMENTAL PROJECTS   learning by building              ║
-╚════════════════════════════════════════════════════════════╝
-
+┌─────────────────────────────────────────────────────────────────────────┐
+│   BACKEND     ██████████████████████████████  APIs, async, queues       │
+│   FRONTEND    █████████████████████████░░░░░  Web, SPAs, UI             │
+│   AI / ML     ████████████████████████████░░  NLP, CV, inference        │
+│   DEVOPS      █████████████████████████░░░░░  Docker, CI/CD, cloud      │
+│   DATA        ████████████████████████░░░░░░  Pipelines, analytics      │
+│   SYSTEMS     ███████████████████████░░░░░░░  Architecture, scale       │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## projects i'm proud of
-
 ```
-
-personal-file-locker     → encrypted file protection tool
-automation scripts       → scripts for everyday workflows
-desktop utilities        → small tkinter applications
-
+LANGUAGES    →   Python · TypeScript · JavaScript · Bash · SQL
+BACKEND      →   FastAPI · Node.js · Express · REST · WebSockets · Queues
+FRONTEND     →   React · Next.js · Tailwind · Responsive · Accessible
+AI / ML      →   PyTorch · TensorFlow · Scikit-learn · Transformers · LangChain
+DATABASES    →   PostgreSQL · MySQL · Redis · Vector DBs · Schema Design
+DEVOPS       →   Docker · GitHub Actions · Linux · Nginx · CI/CD · Secrets
+CLOUD        →   AWS · GCP · VPS · Edge · Serverless · Managed Services
 ```
 
 ---
 
-## github activity
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=dark"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=dark"/>
-
-</p>
-
----
-
-<p align="center">
-
-![snake gif](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
-
-</p>
+```
+╔════════════════════════════════════════════════════════════════════╗
+║  AI-POWERED APIS       Model-backed endpoints, versioned inference ║
+║  ML PIPELINES          data → clean → features → train → deploy    ║
+║  FULL-STACK PRODUCTS   DB schema to UI — auth, RBAC, clean UX      ║
+║  VOICE & CHAT AGENTS   Routing, knowledge bases, live integrations ║
+║  INFRA & AUTOMATION    CI/CD, secrets, health checks, rollbacks    ║
+╚════════════════════════════════════════════════════════════════════╝
+```
 
 ---
 
 <div align="center">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=MuhammedZohaib&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555)](https://git.io/streak-stats)
+
+![Snake animation](https://raw.githubusercontent.com/MuhammedZohaib/MuhammedZohaib/output/snake.svg)
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammadzohaib0-0A66C2?style=flat-square&labelColor=0D1117)](https://www.linkedin.com/in/muhammadzohaib0/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-alizuhaib828%40gmail.com-D14836?style=flat-square&labelColor=0D1117)](mailto:alizuhaib828@gmail.com)
+&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-@MuhammedZohaib?style=flat-square&labelColor=0D1117)](https://discord.com/users/691841511339589652)
+&nbsp;
+![Profile Views](https://komarev.com/ghpvc/?username=MuhammedZohaib&style=flat-square&color=ffffff&label=VIEWS)
+
 ```
-
-╔════════════════════════════════════════════════════╗
-║   Building small software that actually works.    ║
-╚════════════════════════════════════════════════════╝
-
+╔══════════════════════════════════════════════════════╗
+║   Building something ambitious? Let's ship it.       ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 </div>
-```
