@@ -229,6 +229,14 @@ A community for Python developers who actually ship things — project showcases
 
 <br/><br/>
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MuhammedZohaib&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555)](https://git.io/streak-stats)
+
+![Snake animation](https://raw.githubusercontent.com/MuhammedZohaib/MuhammedZohaib/output/snake.svg)
+
+<br/>
+
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
