@@ -1,6 +1,8 @@
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:0d1117&height=60&section=header&reversal=false"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:010409,40:0d1117,100:161b22&height=90&section=header"/>
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -227,6 +229,14 @@ A community for Python developers who actually ship things — project showcases
 
 <br/><br/>
 
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=MuhammedZohaib&theme=dark&hide_border=true&background=0D1117&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=555555)](https://git.io/streak-stats)
+
+![Snake animation](https://raw.githubusercontent.com/MuhammedZohaib/MuhammedZohaib/output/snake.svg)
+
+<br/>
+
 ```
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║                                                                       ║
@@ -241,5 +251,5 @@ A community for Python developers who actually ship things — project showcases
 <br/>
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:0d1117&height=60&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,60:0d1117,100:010409&height=90&section=footer"/>
 </div>
